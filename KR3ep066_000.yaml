@@ -1,0 +1,27 @@
+canonical_identifier: bkk:krp/KR3ep066/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 附方一眼癬方癢甚如有蟲上下眼皮紅用野薔薇花根打汁搽擦即愈並治頭面上及唇口有瘡癢甚出黃水亦可調捺立愈又方用蜈蚣一條浸麻油內七日取起在火上燒滴下之油盛器內放地出去火氣調搽亦愈二洋烟斷癮方四物飲生甘草一斤川貝母一兩去心研細老生薑四兩赤砂糖一斤先將上三味煎熬二三次去渣後以砂糖同藥收膏再以好洋烟五錢調人收貯如一錢癮者食藥五錢逐日減少並以砂糖沖水代茶即斷如癮極重者取已煎之汁十杯再煎至一杯再服必效有人二十餘年之癮照此戒斷切勿輕視又方用生甘草一味煎膏調人煙中吸食二三日即漸不欲吸此方最易不傷人並無煙痢之疾癮深者照法治之一月即斷又方每日用鱔魚一二條滴血沖酒輕者吃四五十條重者百餘條飲此酒大補氣血依此飲之不斷自斷見煙自遠三乳岩祕驗方活蟹十四隻浸尿坑內半月許待肉去盡聽殼再清水內漂淨取起風乾瓦上炙灰存性牡蠣四兩煅灰二味共研細末收好每服三錢陳黃酒隨量送下堅塊自消
+  hash: sha256:1e069be8671c5ce39f2ad4ae61c75beab7c7d487b8fa2b1509ae8eecd376a6a8
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ep066_jc_000-d6.h1s1}
+  - {type: 'tls:div-start', offset: 2, content: '', id: KR3ep066_jc_000-d6d2, level: 2, head_text: 一眼癬方}
+  - {type: 'tls:head', offset: 2, content: '', id: KR3ep066_jc_000-d6.d2.h1s1}
+  - {type: 'tls:div-end', offset: 85, content: '', id: KR3ep066_jc_000-d6d2}
+  - {type: 'tls:div-start', offset: 85, content: '', id: KR3ep066_jc_000-d6d3, level: 2, head_text: 二洋菸斷癮方}
+  - {type: 'tls:head', offset: 85, content: '', id: KR3ep066_jc_000-d6.d3.h1s1}
+  - {type: 'tls:div-end', offset: 302, content: '', id: KR3ep066_jc_000-d6d3}
+  - {type: 'tls:div-start', offset: 302, content: '', id: KR3ep066_jc_000-d6d4, level: 2, head_text: 三乳岩秘驗方}
+  - {type: 'tls:head', offset: 302, content: '', id: KR3ep066_jc_000-d6.d4.h1s1}
+  - {type: 'tls:div-end', offset: 371, content: '', id: KR3ep066_jc_000-d6d4}
+metadata:
+  title: 徐養恬方案
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep066.xml
+hash: sha256:dcb92879ae1c7cb91cacd789694bfa354f98319e16624f88702c62552baea438
